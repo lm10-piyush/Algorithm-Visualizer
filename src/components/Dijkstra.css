@@ -1,0 +1,51 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.grid {
+  margin-left: 5px;
+  background: "red";
+  display: block;
+  text-align: center;
+}
+
+.rowElements {
+  margin-bottom: -3px;
+}
+
+.topic {
+  text-align: center;
+  margin-top: 2px;
+  margin-bottom: 3px;
+  text-transform: uppercase;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.main {
+  background-color: turquoise; /* rgba(255, 255, 0, 0.8); */
+  padding-bottom: 1.5%;
+}
+
+.run {
+  width: 70px;
+  position: fixed;
+  top: 11px;
+  left: 75%;
+  color: black;
+  background-color: turquoise;
+  border-radius: 15%;
+}
+
+.reset {
+  width: 70px;
+  position: fixed;
+  top: 11px;
+  left: 83%;
+  color: black;
+  background-color: turquoise;
+  border-radius: 15%;
+}
+button:hover {
+  background-color: steelblue;
+}

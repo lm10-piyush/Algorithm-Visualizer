@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  background-color: beige;
+  height: 44px;
+}
+
+h1 {
+  margin-left: 15px;
+  color: darkblue;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
